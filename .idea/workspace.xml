@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c3ba9c0-6de5-4d9b-900c-89dd3a9c9a08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Time-Series.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Time-Series.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PS4/hw4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PS4/hw4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772155157499</updated>
       <workItem from="1772155160489" duration="612000" />
-      <workItem from="1772156136614" duration="352000" />
+      <workItem from="1772156136614" duration="744000" />
     </task>
     <servers />
   </component>
